@@ -1,6 +1,6 @@
 ### Hi, I'm Taysa Barbosa 👋
 
-- 🌱 Studying languages Java
+- 🌱 Studying languages Java, C, C++
 - 👨🏼‍🏫 Courses - It's are technical courses on many technologies
 - 👯 My tecnologys --> Dev, SQL, GIT, Visual Code, Ps..
 
